@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Hood",
   "marketplaceName": "Hood.de",
   "description": "Um Hood.de in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Hood.de nötig.",
@@ -9,8 +9,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz Hood.de ist in plentymarkets 7 bereits integriert. Um Hood.de in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Hood.de nötig.",
-    "en": "Hood.de is already integrated into your plentymarkets 7 system. A Hood.de seller account is mandatory for setting up Hood.de in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes Hood.de wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Hood.de zu listen. Die Schnittstelle zu Hood.de ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace Hood.de enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on Hood.de. The interface to Hood.de is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
