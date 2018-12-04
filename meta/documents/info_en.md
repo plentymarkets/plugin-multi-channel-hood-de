@@ -2,14 +2,29 @@
 
 <div class="container-toc"></div>
 
-Since its foundation in 2000, Hood.de has become one of Germany‘s biggest online marketplaces with more than 1.5 million members, more than 4 million offers per day, and more than 3 million visitors per month. Sellers using Hood.de profit from the unrivalled cost-efficient fee structure. No other German marketplace allows for a more cost-efficient sale for the retailer, as no listing fees or basic fees incur. Furthermore, professional sellers can profit from premium services such as the “Hood-Shop” or other specials, including marketing for the seller’s product range offered on Hood.de. Offers can be listed as buy-it-now items in the seller’s own Hood-shop, optionally with negotiating-option, auction, power-auction or as Dutch auction.
+Since its foundation in 2000, Hood.de has become one of Germany's biggest online marketplaces with more than 9 million customers and more than 10 million offers per day. Sellers profit from the unrivalled cost-efficient fee structure, as no listing fees or basic fees occur.
+ 
+Offers can be listed as buy-it-now items in the seller's own Hood shop, optionally with negotiating option, auction, power auction or as Dutch auction.
  
  
 ## Advantages for online retailers:
-<ul>
-   <li>More than 3 million potential shoppers per month</li>
-   <li>Unrivalled cost-efficient fees</li>
-   <li>Cost-efficient product marketing and shops</li>
-   <li>Excellent offer placement in search engines</li>
-   <li>Connection of stock and orders to plentymarkets</li>
-</ul>
+
+- More than 9 million potential shoppers
+
+- Unrivalled cost-efficient fees
+
+- Extensive product features such as multi-variation items, XXL images with zoom function, RRP strikethrough prices etc.
+
+- Excellent offer placement in search engines and Google Shopping
+
+- The world's first marketplace with connection to Amazon Pay (and other leading payment systems such as PayPal and Klarna)
+
+- Trusted Shops certified shop software
+
+- Customer login with Facebook, Google and Amazon Pay, so that every customer can login to Hood and place an order)
+
+- Including Trustami seal
+
+- Cooperation with an IT law office, Trusted Shops, janolaw and Händlerbund for your legal security
+
+- Hood shopping app
