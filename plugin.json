@@ -1,7 +1,10 @@
 {
   "version": "1.0.3",
   "name": "Hood",
-  "marketplaceName": "Hood.de",
+  "marketplaceName": {
+    "de": "Hood.de",
+    "en": "Hood.de"
+  },
   "description": "Um Hood.de in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Hood.de nötig.",
   "namespace": "MultiChannelHood",
   "pluginIcon": "icon_plugin_xs.png",
@@ -17,5 +20,5 @@
     3523
   ],
   "price": 0.00,
-  "type": "plentyInfo"
+  "type": "plentyinfo"
 }
