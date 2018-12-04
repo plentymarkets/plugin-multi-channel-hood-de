@@ -29,17 +29,3 @@ Angebote können als Sofort-Kauf, optional mit Verhandlungs-Funktion, Auktion, P
 - Kooperation mit IT-Recht-Kanzlei, Trusted Shops, janolaw & Händlerbund zu Ihrer Rechtssicherheit
 
 - Eigene Hood Shopping-App
-
-
-
-
-
-
-
-
-
-
-
-
-
-
