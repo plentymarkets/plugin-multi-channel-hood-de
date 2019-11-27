@@ -3,14 +3,14 @@
 
 <div class="container-toc"></div>
 
-Im Jahr 2000 gestartet, ist Hood.de heute mit über 10 Mio. Angeboten täglich und über 9 Mio. Kunden einer der größten Onlinemarktplätze Deutschlands. Besonders vorteilhaft für Verkäufer auf Hood.de ist die konkurrenzlos günstige Gebührenstruktur: Es fallen keine Einstell- oder Grundgebühren an.
+Im Jahr 2000 gestartet, ist Hood.de heute mit über 10 Mio. Angeboten täglich und über 10 Mio. Kunden einer der größten Onlinemarktplätze Deutschlands. Besonders vorteilhaft für Verkäufer auf Hood.de ist die konkurrenzlos günstige Gebührenstruktur: Es fallen keine Einstell- oder Grundgebühren an.
  
 Angebote können als Sofort-Kauf, optional mit Verhandlungs-Funktion, Auktion, Powerauktion, Holländische Auktion und im eigenen Hood-Shop präsentiert werden.
  
  
 ## Ihre Vorteile bei Hood.de
 
-- Über 9 Mio. potenzielle Kunden 
+- Über 10 Mio. potenzielle Kunden 
 
 - Konkurrenzlos günstige Gebühren
 
