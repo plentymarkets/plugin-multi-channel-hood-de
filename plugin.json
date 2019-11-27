@@ -8,7 +8,7 @@
   "description": "Um Hood.de in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei Hood.de nötig.",
   "namespace": "MultiChannelHood",
   "pluginIcon": "icon_plugin_xs.png",
-  "author": "plentymarkets GmbH",
+  "author": "plentysystems AG",
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
@@ -17,7 +17,7 @@
   },
   "license": "AGPL-3.0",
   "categories": [
-    3523
+    3821
   ],
   "price": 0.00,
   "type": "plentyinfo"
